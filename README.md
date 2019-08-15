@@ -1,6 +1,40 @@
 # how_to_software_engineer
 How To Software Engineer
 
+### Initial considerations
+Software engineering is ...
+
+Defined as a systematic, measurable, disciplined and quantified approach to plan, manage, create or maintain software.
+Used to solve non satisfying processes, Unsuccessful endeavors, erros and prejudices
+
+People don't want to use your software. They want to lose weight, laugh, be entertained, get smarter, spend time with loved ones, go home on time, sleep adequately, eat good food, be happy. Your product is only as good as the experiences it enables people to have.
+
+### Systems thinking
+* Purpose
+* Globally
+* Entropy
+* Homeostasis
+* Objects and relationships / basic units
+* Limits / frontier
+* Life points
+* Approach
+* Environment
+
+Think about the product while thinking about the system and the context that it is being applied to.
+
+The life cycle has two different macro phases
+
+    Development
+    Maintenance
+
+It has also 5 micro phases
+
+    Requirements Gathering
+    Design & Project
+    Implementation
+    Verification and Validation
+    Maintenance
+
 ***
 
 # Requirements Engineering
