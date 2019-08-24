@@ -39,6 +39,10 @@ It has also 5 micro phases
 
 # Requirements Engineering
 
+Software requirements express the needs and constraints placed on a software product that contribute to the solution of some real-world problem. The process-based breakdown reflects the fact that the requirements process, if it is to be successful, must be considered as a process involving complex, tightly coupled activities (both sequential and concurrent), rather than as a discrete, one-off activity performed at the outset of a software development project.
+
+By thinking on the requirements it is possible to calculate what is the cost and the resources needed to actualize the development of the system.
+
 ### Module 00 - Brainstorming
 * Start with why?
 * Vision - What is the system / problem we are solving?
@@ -99,9 +103,14 @@ example:
 *** 
 
 # Design & Project
+
+A way of solving problems.
+
+It is defined as a process to map the caracteristics of the system. Ensuring that it has a good Human computer Interaction.
+
 The design activity comprises the entire design and modeling effort designed to describe how the software will be implemented. 
 
-The design includes:
+The design/project phase includes:
 
 * **Conceptual design:** That involves the elaboration of basic ideas and concepts that determine the fundamental elements of the software in question. Conceptual design influences user interface and software architecture.
 
@@ -143,4 +152,18 @@ The tests are for correction, performance, and reliability, guaranteeing the qua
 The maintenance part involves upgrading the software to the customer's demand (s), 
 either for program failures or simply for improvements that the customer needs.
 
+It takes 40% up to 80% of the cost of the project.
+
+Can be: 
+* Corrective
+* Evolutive
+* preventive
+* adaptative
+* of support
+
 ***
+
+# Final Considerations: 
+
+It's important to emphasize a well aligned process of development. 
+Be it by considerating the software as a product or as a service.
